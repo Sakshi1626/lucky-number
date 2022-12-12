@@ -3,8 +3,7 @@ A website which can help you to check whether your birthday is lucky or not. You
 
 
 
-## [LIVE](https://lucky-number-nk.netlify.app/)
-
+## [LIVE]lucky-number-sakshi.netlify.app
 ---
 
 ![Demo](/icons/app-ss-org.png)
